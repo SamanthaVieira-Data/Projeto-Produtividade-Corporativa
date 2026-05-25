@@ -1,3 +1,11 @@
+# 📊 Corporate Productivity Analysis | Análise de Produtividade Corporativa
+
+> **Note:** This project was originally developed in Portuguese. You can find the full English documentation below, followed by the original Portuguese version.
+
+[English Version](#english-version) | [Versão em Português](#versão-em-português)
+
+---
+
 # Análise de Faturamento e Desempenho Operacional de uma Empresa
 
 ### 📋 Sobre o Projeto
